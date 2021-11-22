@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddharthanSingaravel
+- 👋 Hi, I’m @SidSingaravel
 - 👀 I’m interested in DS/ML/RL/DL
 - 📫 You can reach me through my LinkedIn: https://www.linkedin.com/in/siddharthans/
 
