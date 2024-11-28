@@ -9,10 +9,6 @@ At Fidelity, I focused on developing models to forecast customer unsubscription 
 
 Interests: Machine Learning, Behavioral Data Science
 
-Languages: Python, MATLAB, C++, SQL
-Machine Learning Frameworks: PyTorch, Tensorflow, JAX, scikit-learn
-Tools: Tableau, AWS, Docker, Git, Excel, Airflow, MLflow, DVC, dbt
-
 <h3 align="left">Links</h3>
 <p align="left">
 <a href="https://twitter.com/randforestgump" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="randforestgump" height="30" width="40" /></a>
