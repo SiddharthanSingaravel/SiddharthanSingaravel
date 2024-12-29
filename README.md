@@ -11,6 +11,9 @@ At Fidelity Investments' Personal Investments team, I focused on developing mode
 [![Email](https://img.shields.io/badge/Email-%23D44638?logo=gmail&logoColor=white&style=for-the-badge)](mailto:siddharthan.singaravel@gmail.com)
 [![Tableau Portfolio](https://img.shields.io/badge/Tableau%20Portfolio-%23E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/siddharthan.s/vizzes)
 
+### Certifications
+[![Google Advanced Data Analytics Certificate](Assets/google-advanced-data-analytics-certificate-3.png)](https://www.credly.com/badges/d6c44116-22b8-4ee6-afd8-41d917c66fe0/public_url)
+
 ### Technologies <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
